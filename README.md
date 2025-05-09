@@ -54,6 +54,18 @@ We take the security of your information seriously. Tag implements industry-stan
 
 ---
 
+## Delete Your Account
+
+You may delete your account and all associated data at any time through either of the following methods:
+
+- **In-app:** Open the Tag app, go to **Settings > Delete Account**, and follow the prompts. This will permanently remove your account and all related data from our servers.  
+- **By email:** Send a request to [hi@gettag.app](mailto:hi@gettag.app) with the subject line **"Delete My Account"** from the phone number or email associated with your account. We will process the request within 7 days.
+
+Once deleted, your personal information, including your phone number, tags, messages, and activity history, will be permanently erased. We do not retain any identifying data after account deletion.
+
+
+---
+
 ## Changes to this Privacy Policy
 
 Tag may update this privacy policy from time to time. Any changes will be reflected on this page. We encourage you to review it regularly to stay informed of any updates.
@@ -67,4 +79,4 @@ For any questions or concerns regarding the Tag privacy policy, contact us at:
 
 ---
 
-**Last updated:** 22 March 2025
+**Last updated:** 9 May 2025
